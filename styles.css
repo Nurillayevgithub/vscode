@@ -13,7 +13,7 @@ section{
 display: flex;
 }
 aside{
-background-color: aqua;
+background-color: #00ffff;
 height: 70vh;
 width: 20%;
 padding: 2rem;
